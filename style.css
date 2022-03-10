@@ -1,0 +1,102 @@
+/*CSS index*/
+* .index-html{
+	background-color: #EBEBEB;
+}
+p{
+	background-color: #FFE900;
+	border: solid brown 2px;
+	border-radius: 50px 50px 50px 0px;	
+	text-align: center;
+	font-size: 200%;
+	font-family: Georgia, serif;
+}
+.index .intro p{
+	background-color: #FF6C00;
+}
+/*css menu nav*/
+header{
+	position: absolute;
+	font-family: arial;
+	padding-top: 0.5%;
+}
+header nav ul{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+header nav ul li{
+	width: 200px;
+	float: left;
+	height: 40px;
+	background-color: grey;
+	line-height: 250%;
+	text-align: center;
+}
+header nav ul li a{
+	display: block;
+	color: #FFE900;
+}
+header nav ul li a:hover{
+	background-color: #FFE900;
+	text-decoration: none;
+	color: black;
+}
+header nav ul li ul li{
+	display: none;	
+}
+header nav ul li:hover ul li{
+	display: block;
+}
+/*formulaire*/
+.form{
+	padding-top: 12.71%;
+	padding-bottom: 5%;
+}
+.container{
+	background-color: grey;
+	border: solid brown 2px;
+	color: black;
+	border-radius: 50px 50px 50px 0px;
+}
+.box .container table{
+	border: none;
+	text-align: center;
+}
+.box .container table .th{
+	text-align: left;
+	padding-left: 15%;
+}
+/*lecture auto*/
+.lectauto{
+	background-color: grey;
+	text-align: center;
+	border: solid brown 2px;
+	color: black;
+	border-radius: 50px 50px 50px 0px;
+	margin: 1%;
+}
+.boxauto{
+	margin: 1%;
+	text-align: center;
+}
+.lectauto p{
+	margin: 2%;
+}
+/*select auto*/
+.card-body{
+	padding-top: 22%;
+}
+.card{
+	background-color: grey;
+	border: solid grey;
+	border-radius: 50px 50px 50px 0px;
+}
+/*Formulaire*/
+.form{
+	text-align: center;
+}
+.form .col .check
+{
+	text-align: left;
+	margin-left: 42%;
+}
