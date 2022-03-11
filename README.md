@@ -9,7 +9,7 @@ Placer le fichier 'auto.sql' dans une base de données que vous nommerez **annon
 
 Acces à la page administrateur:
 
-**localhost/LeBonWish/Admin/Admin.php**
+**http://localhost/LeBonWish/Admin/Admin.php**
 
 Identifiant: 
 Admin
